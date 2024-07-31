@@ -59,9 +59,9 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 	
 				   let SIGMA_MD_TEXT = `
-*𝘒𝘌𝘐𝘛𝘏 𝘚𝘌𝘚𝘚𝘐𝘖𝘕 𝘙𝘜𝘕𝘕𝘐𝘕𝘎*
-*𝘒𝘌𝘐𝘛𝘏 𝘛𝘌𝘊𝘏*
-*𝙊𝙒𝙉𝙀𝙍 : 𝘒𝘌𝘐𝘛𝘏 𝘒𝘌𝘐𝘡𝘡𝘈𝘏*
+*𝐏𝐎𝐏𝐊𝐈𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍𝐒 𝐑𝐔𝐍𝐍𝐈𝐍𝐆*
+*𝐏𝐎𝐏 𝐊𝐈𝐃*
+*𝙊𝙒𝙉𝙀𝙍 : 𝐏𝐎𝐏𝐊𝐈𝐃*
 ____________________________________
 ╔════◇
 ║『 𝐏𝐎𝐏𝐊𝐈𝐃 𝐌𝐃 𝐈𝐒 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘』
@@ -70,19 +70,19 @@ ____________________________________
 ╚════════════════════╝
 ╔═════◇
 ║ 『••• OWNER INFO •••』
-║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@keithkeizzah_
+║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@popkid254_
 
-║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/254748387615_
+║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/254111385747_
 
-║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/keithkeizzah/hunchoV8_
+║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/Popkidtech/POPKID-MD_
 
-║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/KeEYrEX8UDdGD4m4GbdHaA_
+║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/IwT9XmuZKhy61cLbsM1M6H_
 
-║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47_
+║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l_
 
-║ ❒ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/keizzah_keith_
+║ ❒ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/pop-kid254_
 
-║ 🐯🐯🐯
+║ 👹👹👹
 ╚════════════════════╝ 
  *©𝐏𝐎𝐏𝐊𝐈𝐃 𝗧𝗘𝗖𝗛*
 ___________________________________
